@@ -2,8 +2,8 @@ repositories:
  # Depends on:
    tough:
        type: git
-       url: https://github.com/WPI-Humanoid-Robotics-Lab/tough.git
-       version: kinetic-0.11.0
+       url: https://github.com/DhruvKoolRajamani/tough.git
+       version: master
        
  #Depends on:
    ihmc_repos/ihmc_ros_core:
