@@ -3,7 +3,7 @@ repositories:
    tough:
        type: git
        url: https://github.com/DhruvKoolRajamani/tough.git
-       version: melodic-devel
+       version: melodic-experimental
        
  #Depends on:
    ihmc_repos/ihmc_ros_core:
